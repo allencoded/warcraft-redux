@@ -27,3 +27,6 @@ package-lock.json
 # Editor/IDE
 .idea
 packages/api/etc/
+
+#private keys
+/src/api/private-key.js
